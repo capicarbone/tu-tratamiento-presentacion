@@ -38,6 +38,7 @@ body .tu-tratamiento img.no-box {
   box-shadow: none;
   margin-right: 5%;
   margin-top: 5%;
+  background: rgba(0,0,0,0);
 }
 body .tu-tratamiento img.no-margin-top {
   margin-top: 0%;
